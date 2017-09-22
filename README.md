@@ -1,2 +1,4 @@
 # hello-world
-another one
+Hello everyone,
+
+This intro is meant for my Smart Devices project.
